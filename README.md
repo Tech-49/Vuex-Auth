@@ -1,24 +1,7 @@
-# vuex-demo
+# Authentication Demo for Vuex
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Vuex
+2. Vue Router
+3. Axios
+4. API Structure
+5. Bootstrap Vue
